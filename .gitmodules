@@ -1,3 +1,6 @@
 [submodule "Mohist"]
 	path = Mohist
 	url = https://github.com/Mohist-Community/Mohist.git
+[submodule "OBS-Studio"]
+	path = OBS-Studio
+	url = https://github.com/obsproject/obs-studio
