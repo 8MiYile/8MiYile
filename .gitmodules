@@ -10,3 +10,6 @@
 [submodule "SteamTools"]
 	path = SteamTools
 	url = https://github.com/SteamTools-Team/SteamTools.git
+[submodule "Deepin-RickRoll_Terminal"]
+	path = Deepin-RickRoll_Terminal
+	url = https://github.com/keroserene/rickrollrc
