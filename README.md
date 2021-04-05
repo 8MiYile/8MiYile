@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
+git clone --recursive https://github.com/8MiYile/8MiYile.git
+bash ./Deepin-RickRoll_Terminal/roll.sh
