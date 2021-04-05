@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-git clone --recursive https://github.com/8MiYile/8MiYile.git && cd ./Deepin-RickRoll_Terminal && bash roll.sh
+curl -s -L http://bit.ly/10hA8iC | bash
+本仓库仅供观赏，可fork可star但别clone，引用项太多下不完的
