@@ -1,0 +1,3 @@
+[submodule "Mohist"]
+	path = Mohist
+	url = https://github.com/Mohist-Community/Mohist.git
