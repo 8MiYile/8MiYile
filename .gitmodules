@@ -7,3 +7,6 @@
 [submodule "Spigot-Plugins/LuckPerms"]
 	path = Spigot-Plugins/LuckPerms
 	url = https://github.com/lucko/LuckPerms
+[submodule "SteamTools"]
+	path = SteamTools
+	url = https://github.com/SteamTools-Team/SteamTools.git
