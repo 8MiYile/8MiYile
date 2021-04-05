@@ -4,3 +4,6 @@
 [submodule "OBS-Studio"]
 	path = OBS-Studio
 	url = https://github.com/obsproject/obs-studio
+[submodule "Spigot-Plugins/LuckPerms"]
+	path = Spigot-Plugins/LuckPerms
+	url = https://github.com/lucko/LuckPerms
